@@ -51,3 +51,13 @@ Here are the screenshots demonstrating the API functionality and database state.
 ![Screenshot of Secure Telemetry Exchange API call in Postman/Insomnia showing a 202 Accepted response.](Implementation/telemetry.png)
 
 ---
+
+## Contributing
+
+Feel free to fork this repository, submit issues, or propose pull requests. Contributions are welcome! You can also reach out to me directly at **jamil138.amin@gmail.com**.
+
+---
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
